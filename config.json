@@ -9,7 +9,7 @@
     },
     "av": 0,
     "background": false,
-    "colors": true,
+    "colors": false,
     "cpu-affinity": null,
     "cpu-priority": null,
     "donate-level": 1,
